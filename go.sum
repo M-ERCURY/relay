@@ -1,0 +1,6 @@
+github.com/M-ERCURY/core v1.0.2 h1:mHtrb7733bCEnOQzqvi2pgPNzt29UrwtOu5rbidUVfE=
+github.com/M-ERCURY/core v1.0.2/go.mod h1:CuIl5hnUSQzZHQSjLSuscaWX5u/BRfHHOtqyOCkyqJE=
+github.com/blang/semver v3.5.1+incompatible h1:cQNTCjp13qL8KC3Nbxr/y2Bqb63oX6wdnnjpJbkM4JQ=
+github.com/blang/semver v3.5.1+incompatible/go.mod h1:kRBLl5iJ+tD4TcOOxsy/0fnwebNt5EWlYSAyrTnjyyk=
+golang.org/x/crypto v0.22.0 h1:g1v0xeRhjcugydODzvb3mEM9SQ0HGp9s/nh3COQ/C30=
+golang.org/x/crypto v0.22.0/go.mod h1:vr6Su+7cTlO45qkww3VDJlzDn0ctJvRgYbC2NvXHt+M=
